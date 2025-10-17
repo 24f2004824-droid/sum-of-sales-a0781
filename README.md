@@ -7,3 +7,6 @@ License: MIT
 
 Round 2 Update:
 Add a Bootstrap table #product-sales that lists each product with total sales, keep #total-sales accurate, add currency picker #currency-picker to convert totals using rates.json, and add #region-filter to filter by region
+
+Round 2 Update:
+Add a Bootstrap table #product-sales that lists each product with total sales, keep #total-sales accurate, add currency picker #currency-picker to convert totals using rates.json, and add #region-filter to filter by region.
