@@ -1,0 +1,1 @@
+console.log('Add JS to fetch data.csv, compute totals, update #total-sales, #product-sales, #currency-picker, #region-filter');
